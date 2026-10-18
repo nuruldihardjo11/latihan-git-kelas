@@ -1,2 +1,3 @@
 NAMA: Nurul Rahma A. Diharjo
 NPM: 202557201030
+PRODI: Sistem Informasi
